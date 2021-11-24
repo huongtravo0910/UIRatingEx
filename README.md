@@ -1,3 +1,3 @@
 # UIRatingEx
 
-A description of this package.
+This is a rating UI package for swift App.
